@@ -26,7 +26,11 @@ As a good workaholic-_ish_, there's always something new that I'm inventing or w
 ## 💠 Meet my brand
 It's a work in progress. Let me know if you wanna be part of the team!
 
-[Rara Labs](https://github.com/rara-labs) ![Github followers](https://img.shields.io/github/followers/rara-labs?style=social)
+[Rara Labs - Visit github page](https://github.com/rara-labs)
+
+![Github followers](https://img.shields.io/github/followers/rara-labs?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/rara_labs?style=social)
 
 
 
