@@ -1,6 +1,9 @@
 ### Hello, it's Kevin here 👋
 
-Product Designer, Front-End Engineer, Musician and a dreamer at my free time
+Product Designer, Front-End Engineer, Musician and a dreamer at my free time.
+
+Althought it doesn't look like, I'm very fun and not so serious.
+Like to talk about cutting-edge technology, new products, ideas, music and spirituality.
 
 ## 👨🏻‍💻 Recent works
 As a good workaholic-_ish_, there's always something new that I'm inventing or working on, check it out:
@@ -32,6 +35,15 @@ It's a work in progress. Let me know if you wanna be part of the team!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rara_labs?style=social)
 
+---
+
+More about me...
+
+## 🍿 Favorite movies
+1. Avatar (2009)
+1. Jurassic Park I, II and III
+1. The Alien Saga
+1. Tron Legacy
 
 
 <!--
