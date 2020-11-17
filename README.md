@@ -1,6 +1,6 @@
 ### Hello, it's Kevin here 👋
 
-Product Designer, Front-End Engineer, Musician and a dreamer at my free time.
+☕️ ♑️ Product Designer, Front-End Engineer, Musician and a dreamer at my free time.
 
 Although it doesn't look like, I'm not that serious.
 Like to talk about cutting-edge technology, new products, ideas, music and spirituality.
