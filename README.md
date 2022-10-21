@@ -1,37 +1,48 @@
-### Hello, it's Kevin here 👋
+### Hello, I'm Kevin 👋🏻
 
-Although it doesn't look like, I'm not that serious.
-Like to talk about cutting-edge technology, new products, ideas, music and spirituality.
+**Pronouns:** He / Ele / Él
 
-## 👨🏻‍💻 Recent works
-As a good workaholic-_ish_, there's always something new that I'm inventing or working on, check it out:
+I think my mind actually is a garden of insights.</br>
 
+### 💬 You can ask me about:
+- CSS3;
+- VueJS;
+- Javascript;
+- Music.
+
+### ⚙️ Recent works
+As a creative mind and ~almost~ workaholic, there's always something new that I'm inventing or working on, so check that out:
+		
 <ul style="list-style: none;">
-  <li>
-    <a target="_blank" href="https://github.com/kevintosli/graphene"><b>Graphene</b></a></br>
-    Rara's Design System
-  </li>
-  <li>
-    <a target="_blank" href="https://kevintosli.github.io/calculacarrinho/"><b>Calcula Carrinho</a></b></br>
-    Market cart calculator - Access at your smartphone
-  </li>
+	<li>
+		<a target="_blank" href="https://github.com/kevintosli/graphene"><b>Graphene</b></a></br>
+		Rara's Design System
+	</li>
+	<li>
+		<a target="_blank" href="https://kevintosli.github.io/calculacarrinho/"><b>Calcula Carrinho</a></b></br>
+		Market cart calculator</br>
+		Access on your smartphone (There's a QR Code if you open it in a computer)
+	</li>
 </ul>
 
-## 🤝 Let's be friends
+###	🤝 Follow me
 
 ![GitHub followers](https://img.shields.io/github/followers/kevintosli?style=social)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/heytosli?style=social)
 
+### 📊 Stats
 
-## 💠 Meet my brand
-It's a work in progress. Let me know if you wanna be part of the team!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevintosli)](https://github.com/anuraghazra/github-readme-stats)
+		
+###	💠 My newest project (WIP)
 
-[Rara Labs - Visit github page](https://github.com/rara-labs)
+[Rara Labs → Visit GitHub page](https://github.com/rara-labs)
 
 ![Github followers](https://img.shields.io/github/followers/rara-labs?style=social)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rara_labs?style=social)
+
 
 ---
 
