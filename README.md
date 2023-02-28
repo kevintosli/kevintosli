@@ -49,7 +49,7 @@ As a creative mind and ~almost~ workaholic, there's always something new that I'
 More about me...
 
 ## 🍿 Favorite movies
-1. Avatar (2009)
+1. Avatar movies from James Cameron
 1. Jurassic Park I, II and III
 1. The Alien Saga
 1. Tron Legacy
