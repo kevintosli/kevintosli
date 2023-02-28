@@ -1,4 +1,4 @@
-### Hello, I'm Kevin 👋🏻
+### Hi, I'm Kevin 👋🏻
 
 **Pronouns:** He / Ele / Él
 
